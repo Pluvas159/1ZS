@@ -1,6 +1,5 @@
+
 import turtle, math
-
-
 turtle.speed(0)
 
 def arc(t, r, angle = 45, left = True):
