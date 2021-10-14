@@ -7,7 +7,7 @@ def arc(t, r, angle = 45, left = True):
     #turtle needs to be headed to the direction wanted
     
     arc_length = 2 * math.pi * r * abs(angle) / 360
-    n = int(arc_length / 10) 
+    n = 10
     step_length = arc_length / n
     step_angle = float(angle) / n
 
