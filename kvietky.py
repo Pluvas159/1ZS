@@ -103,8 +103,8 @@ class Kvietok:
 
 
 kvietky = []
-kvietky.append(Kvietok(initial_angle = 25, leaf_length = 150, leaf_angle = 30, 
-                stem_length = 150, stem_angle = 90,
+kvietky.append(Kvietok(initial_angle = 0, leaf_length = 70, leaf_angle = 80, 
+                stem_length = 150, stem_angle = 140,
                 kvet_n = 6, kvet_length = 100, kvet_angle = 50))
 
 kvietky.append(Kvietok(initial_angle = 70, leaf_length = 250, leaf_angle = 30, 
